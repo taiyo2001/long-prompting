@@ -1,0 +1,6 @@
+export HF_TOKEN=hf_xxx
+export HF_HUB_ENABLE_HF_TRANSFER=1
+export GITHUB_TOKEN=ghp_xxx
+export SLACK_BOT_TOKEN=xoxb-xxx
+export SLACK_CHANNEL_ID=
+export SLACK_MENTION_ID=

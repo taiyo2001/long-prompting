@@ -1,0 +1,8 @@
+{
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python-envs.pythonProjects": [],
+
+  "mypy-type-checker.args": ["--disallow-untyped-defs"],
+  "mypy-type-checker.importStrategy": "fromEnvironment"
+}

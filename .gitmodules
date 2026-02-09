@@ -1,0 +1,12 @@
+[submodule "LongAlign"]
+	path = LongAlign
+	url = https://github.com/luping-liu/LongAlign
+[submodule "ParaDiffusion"]
+	path = ParaDiffusion
+	url = https://github.com/weijiawu/ParaDiffusion
+[submodule "data-juicer"]
+	path = data-juicer
+	url = git@github.com:modelscope/data-juicer.git
+[submodule "sd_embed"]
+	path = sd_embed
+	url = git@github.com:xhinker/sd_embed.git

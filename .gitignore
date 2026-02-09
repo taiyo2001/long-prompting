@@ -1,0 +1,11 @@
+# Byte-compiled Python files
+__pycache__/
+
+# Enviroment files
+.envrc
+
+# Output files
+mobileclip_blt.ts
+
+## colab models
+huggingface_cache/
