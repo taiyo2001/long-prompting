@@ -1,12 +1,13 @@
 [submodule "LongAlign"]
 	path = LongAlign
-	url = https://github.com/luping-liu/LongAlign
+	url = git@github.com:taiyo2001/LongAlign.git
 [submodule "ParaDiffusion"]
 	path = ParaDiffusion
-	url = https://github.com/weijiawu/ParaDiffusion
+	url = git@github.com:taiyo2001/ParaDiffusion.git
 [submodule "data-juicer"]
 	path = data-juicer
-	url = git@github.com:modelscope/data-juicer.git
+	url = git@github.com:taiyo2001/data-juicer.git
+	branch = taiyo2001/DetailMaster
 [submodule "sd_embed"]
 	path = sd_embed
-	url = git@github.com:xhinker/sd_embed.git
+	url = git@github.com:taiyo2001/sd_embed.git
